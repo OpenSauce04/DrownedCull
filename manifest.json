@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Stops Drowned from spawning",
+        "name": "Drowned Cull",
+        "uuid": "006dfa91-5148-4acf-92bb-31a87a453a15",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Drowned Removal Pack",
+            "type": "data",
+            "uuid": "6204e844-e56f-462d-82fc-51b6c75dcd59",
+            "version": [0, 0, 1]
+        }
+    ]
+}
